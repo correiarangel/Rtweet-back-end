@@ -7,5 +7,5 @@ Rtweet backend developed with NodeJs and mongoDB a simple api
 # Rtweet React-Native 
 https://github.com/correiarangel/Rtweet
 
-# Rtweet back-end NodeJs 
-https://github.com/correiarangel/Rtweet-back-end
+# Rtweet front-end ReactJs 
+https://github.com/correiarangel/Rtweet-front-end
